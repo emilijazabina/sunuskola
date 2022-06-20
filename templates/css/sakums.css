@@ -1,0 +1,15 @@
+body{
+    background-image: url('../../static/media/pienenes.jpeg');
+}
+
+.btn {
+    background-color: green;
+}
+
+#BezReg{
+    padding-top: 10px;
+}
+
+.card{
+    border-radius: 1rem;
+}

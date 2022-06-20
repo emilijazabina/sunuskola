@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+.nav-link{
+    size: 48pt;
+}
+
+
+.card {
+    box-shadow: 0px 1px 9px 3px rgba(219, 210, 219, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.btn {
+    background-color: green;
+}
+
+td{
+    text-align: center;
+}
+
+a{
+    color: black;
+}
